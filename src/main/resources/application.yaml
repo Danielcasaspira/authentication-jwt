@@ -1,8 +1,8 @@
 jwt:
-  secret: ahjnfshjkfjksdhfjlkdsfjkhsdjkfhsdufjghujas
+  secret: p7oK7dsV9x0HkjF7JrGfTrShL9NC82qH+ImG/OUX8MvJxHeD3M3lql5wvNhcJ5PfBYLC1z+mWCUrrcFXHFvOwA==
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/users
+    url: jdbc:postgresql://localhost:5432/spring-challenges
     username: postgres
     password: admin
   jpa:
